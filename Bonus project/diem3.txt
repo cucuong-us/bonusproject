@@ -1,0 +1,40 @@
+1,22120571,Phung Huu,Tai,6,8,10,khong
+2,22120572,Nguyen Kieu Minh,Tam,6,5,9,khong
+3,22120573,Nguyen Phu,Tan,7.4,4.9,9.5,khong
+4,22120574,Tran Duy,Tan,4.3,3.5,9.4,khong
+5,22120575,Nguyen Khac,Tan,2.4,3.2,6.7,khong
+6,22120576,Nguyen Buu,Thach,6,4,9,khong
+7,22120577,Huynh Quoc,Thai,6,9,9,khong
+8,22120578,Pham Quoc,Thai,7.8,4.9,9.5,khong
+9,22120579,Vu Van,Thai,4.3,4.1,9.4,khong
+10,22120580,Duong Tan,Thanh,6,10,9,khong
+11,22120581,Nguyen Thi Ngoc,Thanh,3.8,7.9,9.5,khong
+12,22120582,Tran Huu,Thanh,6,8,7,khong
+13,22120583,Tran Anh,Thi,4.3,8.1,9.4,khong
+14,22120584,Tran Huu,Thien,9.1,7.9,9.5,khong
+15,22120585,Le Van,Thinh,10,7.1,9.4,khong
+16,22120586,Ngo Le Hung,Thinh,6,9,9,khong
+17,22120587,Nguyen Hoang,Thinh,3.8,4.9,9.5,khong
+18,22120588,Le Quang,Tho,4.3,10,9.4,khong
+19,22120589,Nguyen Hanh,Thu,6,5,9,khong
+20,22120590,Nguyen Trong,Thuan,7.8,3.9,9.5,khong
+21,22120549,Le Hoang,Phuc,6,8,3,khong
+22,22120551,Tran Vinh,Phuc,4.3,4.1,9.4,khong
+23,22120552,Van Duc,Phuoc,6,5,9,khong
+24,22120553,Do Minh,Quan,8.4,4.2,6.7,khong
+25,22120554,Nguyen Minh,Quan,6,4,9,khong
+26,22120555,Nguyen Xuan,Quan,9.4,3.2,6.7,khong
+27,22120556,Van Dinh Minh,Quan,6,8.5,9,khong
+28,22120557,Huynh Minh,Quang,7.8,6.9,9.5,khong
+29,22120558,Luu Ngoc,Quang,6,8,9,khong
+30,22120559,Tran Minh,Quang,8.4,3.2,6.7,khong
+31,22120560,Cao Dinh,Qui,4.3,7.1,9.4,khong
+32,22120561,Tu Van,Qui,7.8,7.9,9.5,khong
+33,22120563,Nguyen Le Cong,Quy,6,8,9,khong
+34,22120564,Nguyen Hoai,Son,8.4,3.2,6.7,khong
+35,22120565,Nguyen Tan,Son,7.8,7.9,9.5,khong
+36,22120566,Vo Ngoc,Son,8.4,3.2,6.7,khong
+37,22120567,Nguyen Tran Ngoc,Suong,6,8,9,khong
+38,22120568,Nguyen Duc,Tai,8.4,3.2,6.7,khong
+39,22120569,Nguyen Van,Tai,4.3,7.1,9.4,khong
+40,22120570,Pham Thanh,Tai,7.8,7.9,9.5,khong

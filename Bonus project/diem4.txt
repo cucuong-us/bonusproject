@@ -1,0 +1,40 @@
+1,21120418,Nguyen Tien,Dat,2.6,3,9,khong
+2,21120420,Ho Xuan,Quang,6,7,8,khong
+3,21120421,Le Ngoc,Tuan,3,10,6,khong
+4,21120422,Nguyen Thi Anh,Tuyet,4,2.4,8.5,khong
+5,21120423,Ngo Trong,Tin,5.2,4.6,8.5,khong
+6,21120424,Duong Khanh,An,4.1,10,3.8,khong
+7,21120425,Pham Trong,An,2.6,3,9,khong
+8,21120426,Dao Duy,Anh,6,7,8,khong
+9,21120427,Le Nhut,Anh,3,10,6,khong
+10,21120428,Nguyen Lam Que,Anh,4,2.4,8.5,khong
+11,21120429,Nguyen Quoc,Anh,2.6,3,9,khong
+12,21120430,Dang Duc,Ba,6,7,8,khong
+13,21120431,To Tran Son,Ba,3,10,6,khong
+14,21120433,Ho Duy,Bao,4,2.4,8.5,khong
+15,21120434,Tran Gia,Bao,2.6,3,9,khong
+16,21120435,Le Thi Ngoc,Bich,6,7,8,khong
+17,21120436,Pham Phuoc,Binh,2.6,3,9,khong
+18,21120437,Tran Khac,Binh,3,10,6,khong
+19,21120438,Dao Van,Canh,4,2.4,8.5,khong
+20,21120439,Hoang Van,Cau,6,7,8,khong
+21,21120481,Phan Xuan,Hoai,2.6,3,9,khong
+22,21120482,Nguyen Ta Huy,Hoang,3,10,6,khong
+23,21120483,Truong Huynh Duc,Hoang,6,7,8,khong
+24,21120484,Vu,Hoang,2.6,3,9,khong
+25,21120485,Le Van,Hung,4,2.4,8.5,khong
+26,21120486,Ngo Phi,Hung,6,7,8,khong
+27,21120487,Nguyen Lam,Hung,3,10,6,khong
+28,21120488,Thai Nguyen Viet,Hung,2.6,3,9,khong
+29,21120489,Vo Phi,Hung,4,2.4,8.5,khong
+30,21120490,Hoang Hai,Hung,6,7,8,khong
+31,21120491,Nguyen Minh,Hung,3,10,6,khong
+32,21120492,Do Dang,Huy,2.6,3,9,khong
+33,21120493,Huynh Tran Quang,Huy,4,2.4,8.5,khong
+34,21120494,Le Xuan,Huy,4.1,10,3.8,khong
+35,21120495,Le Xuan,Huy,6,7,8,khong
+36,21120496,Nguyen Canh,Huy,3,10,6,khong
+37,21120497,Nguyen Quang,Huy,2.6,3,9,khong
+38,21120498,Phung Quoc,Huy,4,2.4,8.5,khong
+39,21120500,Vo Duc,Huy,3,10,6,khong
+40,21120502,Nguyen Minh,Kha,6,7,8,khong

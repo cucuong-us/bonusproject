@@ -1,0 +1,40 @@
+1,22120528,Nguyen Thanh,Luan,5,4,8.4,khong
+2,22120529,Huynh,Luat,6.2,4,4.4,khong
+3,22120530,Tran Thong,Luc,10,4.3,7.6,khong
+4,22120531,Luong Van,Nam,3.2,4.8,7.2,khong
+5,22120532,Nguyen Nhat,Nam,10,4,4.7,khong
+6,22120533,Tran Ngoc Dai,Nam,5,4,8.4,khong
+7,22120534,Nguyen Minh,Nghia,6.2,4,4.4,khong
+8,22120536,Vo Trong,Nghia,10,4.3,7.6,khong
+9,22120537,Ho Trung,Nguyen,3.2,4.8,7.2,khong
+10,22120538,Le Mai Khoi,Nguyen,3.2,4.8,7.2,khong
+11,22120539,Phan Huu An,Nguyen,5,4,8.4,khong
+12,22120540,Vo Hoang Thao,Nguyen,6.2,4,4.4,khong
+13,22120541,Phan Thi Yen,Nhi,10,4.3,7.6,khong
+14,22120542,Trinh Thi Tuyet,Nhung,3.2,4.8,7.2,khong
+15,22120543,Nguyen Minh,Phat,10,4,4.7,khong
+16,22120544,Le Ha Thanh,Phong,5,4,8.4,khong
+17,22120545,Le Hoai,Phong,6.2,4,4.4,khong
+18,22120546,Nguyen Dinh,Phong,10,4.3,7.6,khong
+19,22120547,Vothanh,Phong,10,4,4.7,khong
+20,22120548,Luong Thanh Hoang,Phu,3.2,4.8,7.2,khong
+21,22120591,Le Dao Thao,Tien,10,4,4.7,khong
+22,22120592,Le Minh,Tien,5,4,8.4,khong
+23,22120593,Le Xuan,Tien,6.2,4,4.4,khong
+24,22120594,Nguyen Duy,Tien,10,4.3,7.6,khong
+25,22120595,Pham Minh,Tien,5,4,8.4,khong
+26,22120596,Nguyen Bao,Tin,6.2,4,4.4,khong
+27,22120597,Nguyen Van,Toai,10,4.3,7.6,khong
+28,22120598,Duong Tan,Ton,3.2,4.8,7.2,khong
+29,22120599,Phu Thi Kim,Trang,5,4,8.4,khong
+30,22120600,Le Minh,Tri,6.2,4,4.4,khong
+31,22120601,Le Minh,Tri,10,4.3,7.6,khong
+32,22120602,Nguyen Minh,Tri,3.2,4.8,7.2,khong
+33,22120603,Tran Minh,Tri,10,4,4.7,khong
+34,22120604,Luong Van,Trieu,5,4,8.4,khong
+35,22120605,Phan Nhat,Trieu,6.2,4,4.4,khong
+36,22120606,Vo Tu,Trinh,10,4.3,7.6,khong
+37,22120607,Le Huu,Trong,3.2,4.8,7.2,khong
+38,22120608,Nguyen Huu,Truc,5,4,8.4,khong
+39,22120609,Nguyen Hoang,Trung,10,4.3,7.6,khong
+40,22120610,Khuc Xuan,Truong,6.2,4,4.4,khong
