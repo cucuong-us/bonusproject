@@ -26,7 +26,7 @@ void imforgiangvien(giangvien**a)// thong tin va tai khoan cua 5 giang vien la d
 	a[3]->hovaten = new char[21] {"Nguyen Van Teo"};
 	a[3]->ngaysinh = new char[12] { "9/10/1980"};
 	a[3]->bomon = new char[19] { "Khoa hoc may tinh"};
-	a[3]->tentk = new char[21] {"1"};
+	a[3]->tentk = new char[21] {"122"};
 	a[3]->matkhau= new char[20] {"123"};
 	
 	a[4]->hovaten = new char[21] {"Phan Quoc An"};
